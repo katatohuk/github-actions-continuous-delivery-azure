@@ -6,7 +6,7 @@ on:
 
 env:
   PACKAGES_TOKEN: ${{secrets.PACKAGES_TOKEN}}
-  AZURE_RESOURCE_GROUP: adpk-cd-with-actions
+  AZURE_RESOURCE_GROUP: almostweekend
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"West Europe"'
   #################################################
